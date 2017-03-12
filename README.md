@@ -1,2 +1,2 @@
 # js-dev-env
-Pluralsight Course 
+JavaScript Starter Development Environment
